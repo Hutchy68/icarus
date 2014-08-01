@@ -12,8 +12,9 @@ Icarus == a repo for code experiments, research, or collaboration
 
 Be prepared to share
 
+* your ideas logically 
 * your code
-* your documentation
+* your documentation (a README.md, CONTRIBUTING.md, etc.)
 * prove your efforts
 * accept your failures
 * celebrate your successes
@@ -29,7 +30,7 @@ Please use some other form of communication like Twitter, Facebook, Skype or per
 
 ### Is Icarus the future of Joomla?
 
-In a word, no. The PLT has no idea what this labs project will produce. That said, to throw away a great code is foolish too. 
+In a word, no. The PLT has no idea what this labs project will produce. That said, to throw away a great code is foolish too.
 
 ### If Icarus isn't the future of Joomla, why bother?
 
