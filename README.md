@@ -37,7 +37,7 @@ If you are asking this question, you really shouldn't be here. Thanks for your i
 
 ### How do I get started?
 
-See CONTRIBUTING.md
+See [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## Current Labs
 
